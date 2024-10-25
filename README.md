@@ -1,4 +1,8 @@
-# Java API Exercise
+# Java API Exercise - NOTE: This is a copy from boolean-uk, for the Copilot Exercise.
+
+Copilot Exercise: https://github.com/shyye/ai-day-2  
+Original fork for this repo: https://github.com/shyye/java-api-mvc-with-postgres
+---
 
 ## Learning Objectives
 - Use the MVC pattern with Spring Boot to communicate with a Postgres database
